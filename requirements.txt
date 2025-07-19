@@ -1,0 +1,8 @@
+tidyverse
+text2vec
+topicmodels
+glmnet
+tm
+Matrix
+nnet
+caret
